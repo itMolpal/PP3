@@ -1,0 +1,13 @@
+ru\itmentor\spring\boot_security\demo\сontroller\AdminController.class
+ru\itmentor\spring\boot_security\demo\repository\UserRepository.class
+ru\itmentor\spring\boot_security\demo\сontroller\RegistrationController.class
+ru\itmentor\spring\boot_security\demo\configs\SuccessUserHandler.class
+ru\itmentor\spring\boot_security\demo\model\Role.class
+ru\itmentor\spring\boot_security\demo\repository\RoleRepository.class
+ru\itmentor\spring\boot_security\demo\configs\WebSecurityConfig.class
+ru\itmentor\spring\boot_security\demo\service\UserService.class
+ru\itmentor\spring\boot_security\demo\SpringBootSecurityDemoApplication.class
+ru\itmentor\spring\boot_security\demo\configs\MvcConfig.class
+ru\itmentor\spring\boot_security\demo\model\Registration.class
+ru\itmentor\spring\boot_security\demo\model\User.class
+ru\itmentor\spring\boot_security\demo\сontroller\UserController.class
